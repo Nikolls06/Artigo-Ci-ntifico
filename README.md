@@ -4,11 +4,13 @@ Este repositório contém o artigo, os dados e os scripts utilizados no estudo q
 
 ## 📄 Conteúdo
 
-* **artigo/** — PDF completo do artigo.  
-* **dados/** — Base de dados estruturada (região × ano).  
-* **notebook/** — Jupyter Notebook com toda a análise exploratória.  
-* **src/** — Scripts Python utilizados.  
-* **requirements.txt** — Dependências do projeto.
+* **artigo/** — ArtigoCien_Reprovacao_EF_Abandono_EM_2015_2024.  
+* **dados/** — base_regioes_repro_aband_2015_2024.  
+* **notebook/** — ArtigoCien_Reprovacao_EF_Abandono_EM_2015_2024.  
+* **requirements.txt** — pandas
+matplotlib
+numpy
+.
 
 ---
 
